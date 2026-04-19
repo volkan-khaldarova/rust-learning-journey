@@ -9,20 +9,18 @@ The goal is to build a strong foundation in high-performance, memory-safe code a
 The repository is organized progressively. Each folder contains a specific concept, exercise, or mini-project.
 
 * `01_grocery_variables/` - Basics of data types, variables, mutability, and type casting.
-* *(Future)* `02_control_flow/` - Loops, conditionals, and pattern matching.
-* *(Future)* `03_ownership/` - Deep dive into Rust's borrow checker and memory management.
-* *(Future)* `xx_backend_api/` - Building high-performance backend services.
+
 
 ## 🚀 Roadmap & Learning Goals
 This living repository will eventually expand to cover:
 - [x] Basic Syntax & Scalar Types
-- [ ] Memory Safety (Ownership, Borrowing, Lifetimes)
-- [ ] Structs, Enums, and Pattern Matching
+[ ] Structs, Enums, and Pattern Matching
 - [ ] Error Handling (`Result` and `Option` types)
 - [ ] Concurrency and Multithreading
 - [ ] **Backend Development with Rust** (e.g., Axum, Actix)
 - [ ] **Cloud Computing & AI Integrations**
-- [ ] **Linux & OS Architecture Concepts**
+- [ ] **Linux & OS Architecture Concepts**- [ ] Memory Safety (Ownership, Borrowing, Lifetimes)
+- 
 
 ## 🛠️ Tech Stack
 * **Language:** Rust
